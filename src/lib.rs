@@ -98,6 +98,9 @@ pub use launchpad_s as s;
 pub mod launchpad_mini;
 pub use launchpad_mini as mini;
 
+pub mod launchpad_mini_mk3;
+pub use launchpad_mini_mk3 as mini_mk3;
+
 pub mod launchpad_mk2;
 pub use launchpad_mk2 as mk2;
 
